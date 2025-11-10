@@ -3,7 +3,7 @@ layout: default
 title: Projects
 description:
 ---
-## Design of a Controller for a Robotic Bicycle Using Intelligent Control Techniques [<a href="https://github.com/arman-javan-sekhavat/Design-of-a-Controller-for-a-Robotic-Bicycle-Using-Intelligent-Control-Techniques">GitHub</a>]
+## Design of a Controller for a Robotic Bicycle Using Intelligent Control Techniques [<a href="https://github.com/arman-javan-sekhavat/Design-of-a-Controller-for-a-Robotic-Bicycle-Using-Intelligent-Control-Techniques">GitHub</a>][<a href="https://www.youtube.com/watch?v=4kYoA0vhaSo&list=PL3w5Awy4hkxjaZyW7Zqt1y_hOCt4ec1IN&index=3">YouTube</a>]
 
 ## Simulation and Control of a 5RP Robot Arm [<a href="https://github.com/arman-javan-sekhavat/Simulation-and-Control-of-a-5RP-Robot-Arm">GitHub</a>]
 Design, Simulation, and Implementation of Various Control Techniques on a 5RP Robotic

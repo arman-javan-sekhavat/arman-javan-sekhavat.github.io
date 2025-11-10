@@ -17,4 +17,3 @@ I'm open to collaboration proposals, including projects or research related to m
 * Telegram (preferred): @javan_arman
 * LinkedIn: https://linkedin.com/in/arman-javan-sekhavat
 * X: https://x.com/javan_arman
-* E-mail: arman.j.sekhavat@ut.ac.ir

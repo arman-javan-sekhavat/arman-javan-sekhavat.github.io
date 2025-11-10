@@ -14,6 +14,6 @@ I'm a current MSc student studying Mechatronics Engineering. I’m capable of in
 I'm open to collaboration proposals, including projects or research related to my interests. You can contact me if you would like me to consider your proposals.
 
 
-* **Telegram** (preferred): @javan_arman
-* **LinkedIn**: <a href="[https://linkedin.com/in/arman-javan-sekhavat]">arman-javan-sekhavat</a>
-* **X**: https://x.com/javan_arman
+* **Telegram** (preferred): <a href="https://t.me/javan_arman">@javan_arman</a>
+* **LinkedIn**: <a href="https://linkedin.com/in/arman-javan-sekhavat">arman-javan-sekhavat</a>
+* **X**: <a href="https://x.com/javan_arman">javan_arman</a>

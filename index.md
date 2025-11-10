@@ -3,8 +3,7 @@ layout: default
 ---
 
 
-## Introduction
-I'm a current MSc student studying Mechatronics Engineering. I’m capable of independently conducting advanced research in the field of robotics, as evidenced by my publications.
+**I'm a current MSc student studying Mechatronics Engineering. I’m capable of independently conducting advanced research in the field of robotics, as evidenced by my publications.**
 
 ## Research Interests
 * Robotics

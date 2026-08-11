@@ -6,7 +6,7 @@ description:
 ## Design of a Controller for a Robotic Bicycle Using Intelligent Control Techniques [<a href="https://www.youtube.com/playlist?list=PL3w5Awy4hkxjaZyW7Zqt1y_hOCt4ec1IN">Video</a>][<a href="https://github.com/arman-javan-sekhavat/Design-of-a-Controller-for-a-Robotic-Bicycle-Using-Intelligent-Control-Techniques">Code</a>]
 Designed linear and nonlinear controllers for a robotic bicycle using the DDPG algorithm. The robot was simulated in MuJoCo.
 
-## Simulation and Control of a 5RP Robot Arm [<a href="">Video</a>][<a href="https://github.com/arman-javan-sekhavat/Simulation-and-Control-of-a-5RP-Robot-Arm">Code</a>]
+## Simulation and Control of a 5RP Robot Arm [<a href="https://www.youtube.com/playlist?list=PLTg8o0r1KpHU">Video</a>][<a href="https://github.com/arman-javan-sekhavat/Simulation-and-Control-of-a-5RP-Robot-Arm">Code</a>]
 Design, Simulation, and Implementation of Various Control Techniques on a 5RP Robotic Manipulator.
 
 ## Mobile Robot Control System (teamwork) [<a href="https://www.youtube.com/playlist?list=PLOAY7SVkjufQ">Video</a>][<a href="https://github.com/arman-javan-sekhavat/Mobile-Robot-Control-System">Code</a>]

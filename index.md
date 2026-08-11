@@ -10,6 +10,9 @@ layout: default
 * Control Theory
 * Reinforcement Learning
 
+## Current Research
+** Developing a novel nonlinear control technique to enforce robust asymptotic stability of uncertain dynamical systems controlled by reinforcement learning agents.
+
 ## Contact
 I'm open to collaboration proposals, including projects or research related to my interests. Feel free to contact me if you would like me to consider your proposals.
 

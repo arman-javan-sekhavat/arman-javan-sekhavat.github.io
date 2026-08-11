@@ -12,11 +12,11 @@ Design, Simulation, and Implementation of Various Control Techniques on a 5RP Ro
 ## Mobile Robot Control System (teamwork) [<a href="https://github.com/arman-javan-sekhavat/Mobile-Robot-Control-System">Code</a>]
 Design of a PID-based control system for a mobile robot. A GUI application served as a control panel. The user was able to draw the desired path of the robot in the control panel.
 
-## Python-Shared-Memory [<a href="https://github.com/arman-javan-sekhavat/Python-Shared-Memory">Code</a>]
-A Python Implementation of the Shared Memory, Synchronized by the Windows Kernel Functions.
-
 ## Passive Steering Wheel (teamwork) [<a href="https://github.com/arman-javan-sekhavat/Passive-Steering-Wheel">Code</a>]
 Designed a CNN model capable of estimating the steering angle from an input image of a steering wheel.
+
+## Python-Shared-Memory [<a href="https://github.com/arman-javan-sekhavat/Python-Shared-Memory">Code</a>]
+A Python Implementation of the Shared Memory, Synchronized by the Windows Kernel Functions.
 
 ## Automatic License Plate Recognition
    
